@@ -1,0 +1,50 @@
+<div>
+  <div class="form-group">
+    <label>Aluno: </label> <span class="form-control">{{ficha.cliente.nome}}</span>
+  </div>
+  <div class="form-group">
+    <label>Professor: </label> <span class="form-control">{{ficha.professor.nome}}</span>
+  </div>
+  <button class="btn btn-default" (click)="adicionarSerie($event);">Adicionar Série</button>
+</div>
+
+<div class="card-deck mb-3 text-center">
+  <div *ngFor="let serie of ficha.series" class="card mb-4 box-shadow">
+    <div class="card-header">
+      <h4 class="my-0 font-weight-normal">{{serie.rotuloSerie}}</h4>
+    </div>
+    <div class="card-body">
+      <ul class="list-unstyled mt-3 mb-4">
+        <li *ngFor="let ex of serie.exerciciosSerie" class="border mt-1 mb-1">
+            <span>{{ex.exercicio.nome}}</span><br />
+            Repetição: <span>{{ex.repeticao}}</span>&nbsp;|&nbsp;
+            <span><a (click)="AlterarCarga($event, ficha.id, ex.id, ex.exercicio.nome, ex.carga)" href="#">{{ex.carga}}</a></span>
+        </li>
+      </ul>
+      <button (click)="adicionarExercicio($event, serie.id)" class="btn btn-lg btn-block btn-primary">Adicionar Exercício</button>
+    </div>
+  </div>
+</div>
+
+<!-- <div class="table-responsive" *ngFor="let serie of ficha.series">
+    <table class="table">
+      <thead>
+        <tr>
+          <th>SÉRIE</th>
+          <th>ORDEM</th>
+          <th>EXERCÍCIO</th>
+          <th>REPETIÇÃO</th>
+          <th>CARGA (KG)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let ex of serie.exerciciosSerie; first as isFirst;">
+          <td attr.rowspan="{{serie.exerciciosSerie.length}}" *ngIf="isFirst">{{serie.rotuloSerie}}</td>
+          <td>{{ex.ordem}}</td>
+          <td>{{ex.exercicio.nome}}</td>
+          <td>{{ex.repeticao}}</td>
+          <td><a (click)="AlterarCarga($event, ficha.id, ex.id, ex.exercicio.nome, ex.carga)" href="#">{{ex.carga}}</a></td>
+        </tr>
+      </tbody>
+    </table>
+</div> -->

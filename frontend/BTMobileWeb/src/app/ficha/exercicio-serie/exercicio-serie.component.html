@@ -1,0 +1,19 @@
+<h1 class="mt-8">Ficha / Exercício</h1>
+<div>
+  <form>
+    <div class="form-group">
+      <label>Exercicio: </label>
+      <select (change)="setExercicioId($event.target.value)" class="form-control">
+          <option value="">[Selecione]</option>
+          <option *ngFor="let exercicio of exercicios" value="{{exercicio.id}}">{{exercicio.nome}}</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label>Reprtição: </label> <input [value]="repeticao" (input)="repeticao = $event.target.value" type="text" id="txtRepeticao" class="form-control" />
+    </div>
+    <div class="form-group">
+      <label>Carga: </label> <input [value]="carga" (input)="carga = $event.target.value" type="text" id="txtCarga" class="form-control" />
+    </div>
+    <button (click)="salvarExercicioSerie($event)" class="btn btn-primary">Alterar</button> <button (click)="voltar($event)" class="btn">Cancelar</button>
+  </form>
+</div>

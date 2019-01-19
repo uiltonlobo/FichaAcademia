@@ -1,0 +1,13 @@
+<div>
+  <form>
+    <input type="hidden" id="hidId" [value]="id" (input)="id = $event.target.value"/>
+
+    <div class="form-group">
+      <label>Nome: </label> <input type="text" [value]="nome" (input)="nome = $event.target.value" id="txtNome" class="form-control" />
+    </div>
+
+    <div>
+      <button (click)="salvar($event)" class="btn btn-primary">Salvar</button> <button (click)="voltar($event)" class="btn">Voltar</button>
+    </div>
+  </form>
+</div>

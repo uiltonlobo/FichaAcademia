@@ -1,0 +1,21 @@
+<div>
+    <div class="form-group">
+      <button (click)="incluir($event)" class="btn btn-primary">Novo</button>
+    </div>
+    <div class="table-responsive">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Exercício</th>
+            <th>&nbsp;</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let exercicio of exercicios">
+            <td><a [routerLink]="['/exercicio', exercicio.id]">{{exercicio.nome}}</a></td>
+            <td><a (click)="excluir($event, exercicio.id)" href="#">Excluir</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>

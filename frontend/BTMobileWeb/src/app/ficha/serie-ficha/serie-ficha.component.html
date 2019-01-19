@@ -1,0 +1,9 @@
+<h1 class="mt-8">Ficha</h1>
+<div>
+    <form>
+        <div class="form-group">
+            <label>Série: </label><input [value]="rotuloSerie" (input)="rotuloSerie = $event.target.value" type="text" id="txtRotuloSerie" class="form-control" />
+        </div>
+        <button (click)="adicionarSerie($event)" class="btn btn-primary">Adicionar</button> <button (click)="voltar($event)" class="btn">Cancelar</button>
+    </form>
+</div>

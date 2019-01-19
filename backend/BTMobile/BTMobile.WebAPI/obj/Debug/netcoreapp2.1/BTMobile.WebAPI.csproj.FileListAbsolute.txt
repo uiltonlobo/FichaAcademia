@@ -1,0 +1,36 @@
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.WebAPI.deps.json
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.WebAPI.runtimeconfig.json
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.WebAPI.runtimeconfig.dev.json
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.WebAPI.dll
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.WebAPI.pdb
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.WebAPI.xml
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.Business.dll
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.Business.pdb
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.csprojAssemblyReference.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.csproj.CoreCompileInputs.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.RazorAssemblyInfo.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.RazorAssemblyInfo.cs
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.AssemblyInfoInputs.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.AssemblyInfo.cs
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.csproj.CopyComplete
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.dll
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.pdb
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.WebAPI.deps.json
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.WebAPI.runtimeconfig.json
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.WebAPI.runtimeconfig.dev.json
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.WebAPI.dll
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.WebAPI.pdb
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.WebAPI.xml
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.Business.dll
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\bin\Debug\netcoreapp2.1\BTMobile.Business.pdb
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.csprojAssemblyReference.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.csproj.CoreCompileInputs.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.RazorAssemblyInfo.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.RazorAssemblyInfo.cs
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.AssemblyInfoInputs.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.AssemblyInfo.cs
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.csproj.CopyComplete
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.dll
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.WebAPI\obj\Debug\netcoreapp2.1\BTMobile.WebAPI.pdb

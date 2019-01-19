@@ -1,0 +1,39 @@
+<h1 class="mt-8">Ficha</h1>
+<div>
+  <div class="form-group">
+    <label>Professor:</label>
+    <select (change)="setProfessorId($event.target.value)" class="form-control">
+      <option value="">[Selecione]</option>
+      <option *ngFor="let professor of professores" value="{{professor.id}}">{{professor.nome}}</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label>Cliente:</label>
+    <select (change)="setClienteId($event.target.value)" class="form-control">
+      <option value="">[Selecione]</option>
+      <option *ngFor="let cliente of clientes" value="{{cliente.id}}">{{cliente.nome}}</option>
+    </select>
+  </div>
+  <div>
+    <button (click)="ObterFichas()" class="btn btn-primary">Pesquisar</button>
+  </div>
+  <div class="table-responsive">
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Professor</th>
+          <th>Cliente</th>
+          <th>Criação</th>
+          <th>&nbsp;</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let ficha of fichas">
+          <td>{{ficha.professor.nome}}</td>
+          <td>{{ficha.cliente.nome}}</td>
+          <td>{{ficha.dataCriacao}}</td>
+          <td><a [routerLink]="['/ficha', ficha.id]">Abrir</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>

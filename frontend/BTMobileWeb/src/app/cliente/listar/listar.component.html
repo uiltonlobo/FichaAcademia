@@ -1,0 +1,23 @@
+<div>
+  <div class="form-group">
+    <button (click)="incluir($event)" class="btn btn-primary">Novo</button>
+  </div>
+  <div class="table-responsive">
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Matrícula</th>
+          <th>Cliente</th>
+          <th>&nbsp;</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let cliente of clientes">
+          <td>{{cliente.id}}</td>
+          <td><a [routerLink]="['/cliente', cliente.id]">{{cliente.nome}}</a></td>
+          <td><a (click)="excluir($event, cliente.id)" href="#">Excluir</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

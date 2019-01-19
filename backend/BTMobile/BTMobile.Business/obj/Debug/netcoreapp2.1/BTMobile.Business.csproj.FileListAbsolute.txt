@@ -1,0 +1,22 @@
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.Business\bin\Debug\netcoreapp2.1\BTMobile.Business.deps.json
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.Business\bin\Debug\netcoreapp2.1\BTMobile.Business.runtimeconfig.json
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.Business\bin\Debug\netcoreapp2.1\BTMobile.Business.runtimeconfig.dev.json
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.Business\bin\Debug\netcoreapp2.1\BTMobile.Business.dll
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.Business\bin\Debug\netcoreapp2.1\BTMobile.Business.pdb
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.Business\obj\Debug\netcoreapp2.1\BTMobile.Business.csproj.CoreCompileInputs.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.Business\obj\Debug\netcoreapp2.1\BTMobile.Business.AssemblyInfoInputs.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.Business\obj\Debug\netcoreapp2.1\BTMobile.Business.AssemblyInfo.cs
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.Business\obj\Debug\netcoreapp2.1\BTMobile.Business.dll
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.Business\obj\Debug\netcoreapp2.1\BTMobile.Business.pdb
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode\backend-challenge-sr\backend\BTMobile\BTMobile.Business\obj\Debug\netcoreapp2.1\BTMobile.Business.csprojAssemblyReference.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.Business\bin\Debug\netcoreapp2.1\BTMobile.Business.deps.json
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.Business\bin\Debug\netcoreapp2.1\BTMobile.Business.runtimeconfig.json
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.Business\bin\Debug\netcoreapp2.1\BTMobile.Business.runtimeconfig.dev.json
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.Business\bin\Debug\netcoreapp2.1\BTMobile.Business.dll
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.Business\bin\Debug\netcoreapp2.1\BTMobile.Business.pdb
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.Business\obj\Debug\netcoreapp2.1\BTMobile.Business.csprojAssemblyReference.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.Business\obj\Debug\netcoreapp2.1\BTMobile.Business.csproj.CoreCompileInputs.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.Business\obj\Debug\netcoreapp2.1\BTMobile.Business.AssemblyInfoInputs.cache
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.Business\obj\Debug\netcoreapp2.1\BTMobile.Business.AssemblyInfo.cs
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.Business\obj\Debug\netcoreapp2.1\BTMobile.Business.dll
+C:\Uilton\Projetos\TestesDasEmpresas\Bodytech\Sourcecode - Ajustado\backend-challenge-sr\backend\BTMobile\BTMobile.Business\obj\Debug\netcoreapp2.1\BTMobile.Business.pdb
